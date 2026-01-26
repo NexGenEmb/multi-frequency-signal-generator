@@ -16,4 +16,3 @@ Additive White Gaussian Noise (AWGN) simulation
 
 Bridged embedded hardware and software analysis tools to validate signal integrity and system performance.
 
-👉 This project strongly signals signal processing + embedded firmware competence.
